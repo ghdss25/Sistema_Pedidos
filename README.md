@@ -24,6 +24,11 @@ Apresentei uma ánalise de vendedores por Unidades e avaliei o preço ofertado p
 - [Pandas](https://pandas.pydata.org/)
 - [Static](https://www.delftstack.com/howto/python/static-class-python/)
 - [heatmap](https://seaborn.pydata.org/generated/seaborn.heatmap.html)
+- [Numpy](https://numpy.org/doc/stable/user/whatisnumpy.html)
+- [stat](https://www.journaldev.com/18722/python-static-method)
+- [subprocess](https://docs.python.org/3/library/subprocess.html)
+- [os](https://docs.python.org/3/library/os.html) 
+- [statistics](https://docs.python.org/3/library/statistics.html)
 
 O Relatório obteve os seguintes registros:
 
