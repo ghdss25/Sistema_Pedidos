@@ -1,13 +1,13 @@
 ## Sobre o Projeto
 
-ocê recebeu a tarefa de analisar os dados de Preço de Unidades e Unidades da empresa DSA! 
-O arquivo esta no formato em excel para a realização da tarefa.
+Foi feito uma analise de dados de Preço de Unidades e Unidades da empresa DSA! 
+O arquivo ficou no formato em excel para a realização da tarefa.
 
 No sistema, cada vendedor efetuou nas regiões registradas o preço de unidades por itens e regiões, 
 onde também foi realizada a unidades de vendas por esses Itens e regiões.
 
-Seu trabalho é entregar uma ánalise comportamental de vendas em cada região e itens. 
-Apresentar uma ánalise geral da quantidade de vendas desses vendedores por Unidades e avaliar o preço ofertado por eles nos lugares indicados. 
+Entreguei uma ánalise comportamental de vendas em cada região e itens. 
+Apresentei uma ánalise de vendedores por Unidades e avaliei o preço ofertado por eles nos lugares indicados. 
 
 ## Tecnologias Utilizadas 
 
@@ -25,7 +25,7 @@ Apresentar uma ánalise geral da quantidade de vendas desses vendedores por Unid
 - [Static](https://www.delftstack.com/howto/python/static-class-python/)
 - [heatmap](https://seaborn.pydata.org/generated/seaborn.heatmap.html)
 
-O Relatório deve incluir cada um dos seguintes registros:
+O Relatório obteve os seguintes registros:
 
 ** Regiões por Preço **
 
